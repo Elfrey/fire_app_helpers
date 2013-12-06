@@ -5,4 +5,4 @@ Relative helpers for Fire.app
 * image tag ```<%= image_tag_r "script" %>```
 * background image path ```<%= bg_image_path_r "script" %>```
 * image tag ```<%= image_tag_r "script" %>```
-* relative path to anything (<a href=""></a> ) ```<%= a_href_r "script" %>``` - <a href="<%= a_href_r "login/index.html" %>">Login</a>
+* relative path to anything ```<%= a_href_r "script" %>``` - <a href="<%= a_href_r "login/index.html" %>">Login</a>
