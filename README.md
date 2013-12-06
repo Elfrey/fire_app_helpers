@@ -1,3 +1,4 @@
+```
 module ViewHelpers
   def get_relative_path()
     slashCount = request.path.split("/").length - 2
@@ -79,3 +80,4 @@ module ViewHelpers
     end.join("\n")
   end
 end
+```
